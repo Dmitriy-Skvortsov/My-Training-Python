@@ -1,4 +1,4 @@
-# MyFirstGitHub
+# My training Python
 
 *Наклонный текст*
 
