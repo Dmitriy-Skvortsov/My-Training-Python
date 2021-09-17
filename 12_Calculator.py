@@ -20,4 +20,7 @@ secondEntry.grid(column=1, row=1)
 result_label = tk.Label(text = "")
 result_label.grid(column=1, row=2, sticky="w")
 
+button = tk.Button(window, text="Вычислить сумму", command=get_sum)
+button.grid(column=1, row=3)
+
 window.mainloop()
