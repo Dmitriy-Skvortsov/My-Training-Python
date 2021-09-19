@@ -1,5 +1,3 @@
-# MyFirstGitHub
+# Calculator
 
-*Наклонный текст*
 
-**Жирный текст**
